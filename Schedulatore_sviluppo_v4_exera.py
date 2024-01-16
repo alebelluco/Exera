@@ -1,11 +1,11 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-import plotly_express as px
+#import plotly_express as px
 from datetime import time, timedelta, datetime, date
 import math
-from random import*
+#from random import*
 
 st.set_page_config(page_title="Planner interventi", layout='wide')
 
